@@ -19,3 +19,20 @@
     float: left;
     margin-right: 88%;
 }
+.text{
+  font-size: 80px ;
+  font-style: oblique;
+  color: black;
+  padding-left: 10%;
+}
+#page{
+  border-top: solid white 0.001px;
+  display: grid;
+  grid-template-columns: 40% 50%;
+  }
+.image{
+  padding-top: 10%;
+  margin: auto;
+  padding-left: 20%;
+ 
+}
